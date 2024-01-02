@@ -3,9 +3,9 @@ import copy
 import numpy as np
 import pandas as pd
 import tqdm
+from base_165_features import *
 
 
-# ! Feature engineering skills:
 def get_all_features(df):
     """
     Get all features for the given dataframe.
@@ -16,8 +16,17 @@ def get_all_features(df):
     Returns:
     pandas.DataFrame: The dataframe with all the features.
     """
-    feature_df = get_paragraph_features(df)
-    return feature_df
+    # feature_df = get_paragraph_features(df)
+    # return feature_df
+
+    # NOTE: ugly hack to utilize base_165_features without using anything else
+    DATA_ROOT = (
+        "/Users/kaiqu/kaggle-datasets/linking-writing-processes-to-writing-quality"
+    )
+    train_logs = pl.scan_csv(f"{DATA_ROOT}/train_logs.csv")
+    feautre_extractor = FeatureExtractor(train_logs)
+    train_features = feautre_extractor.create_feats().collect().to_pandas()
+    return train_features
 
 
 def get_word_features(df, essay_df=None):
