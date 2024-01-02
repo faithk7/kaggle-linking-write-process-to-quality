@@ -1,0 +1,402 @@
+Title: Looking for a Team Megathread
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/444788
+
+Title: Greetings from the Organizers
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/444592
+
+Title: This Competition has an Official Discord Channel
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/445418
+
+Title: New to Kaggle or Machine Learning? Check this out ~
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/444787
+
+Title: A few important papers on keystroke analysis
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/462198
+
+Title: Feature Engineering
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/461677
+
+Title: Curious case of writer `3e10785d`
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/462194
+
+Title: Beware of chasing the public LB!
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/461078
+
+Title: Spam team requests?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/460827
+
+Title: Reconstructing Essays - Undo might not have been logged properly
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/461284
+
+Title: Installation of Python library
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/461561
+
+Title: Have there been similar competitions in the past?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/460598
+
+Title: What happened so far? A quick summary of the discussions
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/460290
+
+Title: Question on key down/up
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/460486
+
+Title: bert or nlp models
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/460173
+
+Title: Check out awqatak's latest work: 0.582 LB with a single model
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/459883
+
+Title: Some about feature selection that I still don't understand.
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/459640
+
+Title: Update on CV/LB scores?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/458254
+
+Title: Incorrect Inputs
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/460070
+
+Title: Some Important Qs
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/460439
+
+Title: Discussion on overfitting problems
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/459174
+
+Title: why the modifier keys like ctrl, alt, shift have no action time?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/459907
+
+Title: [LB: 0.586] LGBM + NN still can boost your score
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/454955
+
+Title: Slightly Lower Standard Deviation in Public Test
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/460057
+
+Title: A friendly reminder. Feature Engineering!
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/453886
+
+Title: How useful is tokenization?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/458731
+
+Title: I would appreciate any "reasonable" explanation.
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/457051
+
+Title: Base Submission - Efficiency Track
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/459370
+
+Title: Score Distribution of Public Test Dataset from LB Probing
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/456467
+
+Title: KFold vs StratifiedKFold
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/456965
+
+Title: Efficiency prize question
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/458972
+
+Title: For students who exceed the 30 minutes.
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/456003
+
+Title: A possible hypothesis on the low essay scores
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/455909
+
+Title: Essay with up time exceed the provided time limit for essay writing i.e. 30 mins
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/458275
+
+Title: 📌 You may want to read this research paper of mine to get a better intuition about the competition.
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/457917
+
+Title: Unseen events in the public test data
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/457385
+
+Title: [solved] Submission error...but everything looks the same as the train_scores ?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/458249
+
+Title: Beyond the Leaderboard: Cross-Validation Matters More Than You Think
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/456773
+
+Title: 0.582 Baseline Ensembling
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/457308
+
+Title: Submission Error
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/456869
+
+Title: Single model CV - LB correlation
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/444947
+
+Title: [LB 0.585] New best public score!
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/456395
+
+Title: discussion on "there may be events in the test set that do not occur in the training set"
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/457159
+
+Title: Metric usage
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/457076
+
+Title: Be wary of edge scores
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/446665
+
+Title: Why do some essays go for more than 2 hours?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/456699
+
+Title: CountVectorizer vs TF-IDF - what is better?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/451795
+
+Title: How classification can help regression?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/451852
+
+Title: Testlog too small?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/455866
+
+Title: What exactly are these essay scores?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/455330
+
+Title: In train dataset logs with "21bbc3f6" start at downtime 7452424
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/452238
+
+Title: Exploring the relationships among cognitive and linguistic resources, writing processes, and written products in second language writing
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/455803
+
+Title: Research Papers, Articles and Key Ideas
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/445545
+
+Title: Three tips for efficiency track
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/455022
+
+Title: Tree models have reach its limit. Now we need deep learning models.
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/455616
+
+Title: Essays with R-markdown
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/455071
+
+Title: CV and test show no correlation with LB RMSE
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/454532
+
+Title: Performance deterioration when generating features from reconstructed texts
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/454576
+
+Title: Be cautious of an optimistic public LB!
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/447885
+
+Title: quesTion tag
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/454385
+
+Title: How to import python modules？
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/451766
+
+Title: How to be efficient in this competition
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/445142
+
+Title: Paste activity - a question
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/452801
+
+Title: Comparing down time of the current event wrt up time of previous event
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/445872
+
+Title: Submission Errors
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/448461
+
+Title: Please go upvote zhengheng's notebook!
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/451081
+
+Title: What is "q>=q" ??
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/452563
+
+Title: Probably a small bug in the training data
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/452264
+
+Title: Human Evalution Metrics for essay's
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/453042
+
+Title: Using Power Transformers
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/452288
+
+Title: Down Time Goes Back In Time
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/447110
+
+Title: Several questions on the data format in the training dataset.
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/451765
+
+Title: 🔴 Youtube Video 🔴 writing-quality-lgbm 🔥🔥
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/451518
+
+Title: Anyone try transformer?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/451079
+
+Title: Language Bursts. Working Memory. Measures of Quality.
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/444659
+
+Title: The submission file. Some explorations
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/452016
+
+Title: Submission Failed
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/451832
+
+Title: Understanding leaderboard and scores
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/451791
+
+Title: New Rmarkdown notebook
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/451973
+
+Title: Down_time Issues
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/447238
+
+Title: what is the main goal of the competition?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/451184
+
+Title: Anyone trying RNNs?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/447264
+
+Title: Defects in Tree Model
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/448597
+
+Title: "Activity is 'Remove/Cut' but the cursor doesn't move"
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/448180
+
+Title: Could not find provided output file submission.csv ?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/446206
+
+Title: Rubric for score calculation (response from organizer!)
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/447933
+
+Title: Is word_count wrong??
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/446802
+
+Title: Action Time Of Several Minutes
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/444918
+
+Title: How to import unknown packages (here: configobj)?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/449139
+
+Title: Essay has almost 0 punctuation and still got score of 4.5?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/448870
+
+Title: Why is changing the case of a letter not considered as a "Replace" activity?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/448891
+
+Title: Handling unseen data
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/448941
+
+Title: (Improved?) Essay Constructor
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/447735
+
+Title: Need Help <Submission Scoring Error>
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/449089
+
+Title: Submission Error
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/449073
+
+Title: [No more kinda but it is Solved] Need help while revealing the hidden words.
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/447789
+
+Title: Has anyone tried to reconstruct the essay?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/446207
+
+Title: Lleaves - Faster Inference for the LightGBMers
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/448275
+
+Title: time frame problem
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/445493
+
+Title: Constructed essays across training ids
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/446972
+
+Title: Traminer is not only wine (sequence analysis)
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/448471
+
+Title: The scoring of each essay
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/447064
+
+Title: Framing it as a classification problem?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/444905
+
+Title: Starting references and materials
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/444664
+
+Title: Version control with git and work with multiple python files
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/445630
+
+Title: SAT Essay 4 Prompts + Paper + Target Score (maybe or coincidence)
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/444617
+
+Title: 🏆🥇Good articles to refer for the competition!🏆🥇
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/444914
+
+Title: should we build new features because having a list for each partecipants is not feasible?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/447836
+
+Title: Activity columns explaination
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/444757
+
+Title: Why LGBM is so underappreciated in the industry?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/444745
+
+Title: PROBLEM WITH SUBMISSION
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/446780
+
+Title: Acceptable Features for Prediction?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/446848
+
+Title: First notebook with submission in R in this competition :-)
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/446196
+
+Title: Can students use short cut keys in the web app?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/445631
+
+Title: Regression or Classification or regression with approximation?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/445012
+
+Title: Help tips debugging error in submission
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/445677
+
+Title: Why are down_event and up_event different?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/445832
+
+Title: What does "q" mean?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/445707
+
+Title: Identifier for the prompt the essay was written for by the participants
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/445085
+
+Title: Explaination of "down_event" and "up_event" column? Need Organizers clarification.
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/444931
+
+Title: Meaning behind down/up events
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/445899
+
+Title: Writing Processes over the years. On your Marks, get set, code Kagglers!
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/445018
+
+Title: Overfitting or something else?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/464237
+
+Title: LB Shake Estimation with Nested Cross Validation
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/463525
+
+Title: Train on all data at once or Cross Validation?
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/463933
+
+Title: Do not blindly trust public rankings!
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/463464
+
+Title: Lucky Seed
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/462542
+
+Title: Anyone facing issue while submitting
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/463658
+
+Title: Observation on GAN and CV results
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/463757
+
+Title: Submission Error Problem
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/463524
+
+Title: Accurate Train Test Comparisons in Cross Validation
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/463117
+
+Title: Useful Articles
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/463074
+
+Title: Queries about Stratified K Fold
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/462738
+
+Title: Drop in public score after clipping prediction outputs
+URL: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/462962
+

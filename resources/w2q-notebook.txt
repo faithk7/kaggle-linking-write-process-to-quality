@@ -1,0 +1,924 @@
+Title: Writing Processes - Efficiency LB
+ URL: https://www.kaggle.com/code/ryanholbrook/writing-processes-efficiency-lb
+
+Title: Linking Writing
+ URL: https://www.kaggle.com/code/haris33/linking-writing
+
+Title: VotingRegressor (7 models) + 165 Features [optuna]
+ URL: https://www.kaggle.com/code/minhsienweng/votingregressor-7-models-165-features-optuna
+
+Title: GAN with tabular data
+ URL: https://www.kaggle.com/code/seoyunje/gan-with-tabular-data
+
+Title: LGBM  + NN + Fusion+ XGB Ensemble
+ URL: https://www.kaggle.com/code/suryanshsharma1/lgbm-nn-fusion-xgb-ensemble
+
+Title: .581 | 3 Models | Optimized Weights | 165 Features
+ URL: https://www.kaggle.com/code/snnclsr/581-3-models-optimized-weights-165-features
+
+Title: Writing Quality(fusion_notebook)
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-fusion-notebook
+
+Title: lgbm + lgbm & xgb ensemble
+ URL: https://www.kaggle.com/code/myeongwang/lgbm-lgbm-xgb-ensemble
+
+Title: FastText LinkingWriting Prcs to Writing Quality
+ URL: https://www.kaggle.com/code/jaloeffe92/fasttext-linkingwriting-prcs-to-writing-quality
+
+Title: LightGBM_with_simple_preprocess
+ URL: https://www.kaggle.com/code/watehell/lightgbm-with-simple-preprocess
+
+Title: lgbm+xgb essemble
+ URL: https://www.kaggle.com/code/zulqarnainali/lgbm-xgb-essemble
+
+Title: Feature Selection:Null Importance(CV:0.616->0.615)
+ URL: https://www.kaggle.com/code/alvinai9603/feature-selection-null-importance-cv-0-616-0-615
+
+Title: Shake Estimation with Nested Cross Validation
+ URL: https://www.kaggle.com/code/kingychiu/shake-estimation-with-nested-cross-validation
+
+Title: (Writing Quality)How to make fake data？
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-how-to-make-fake-data
+
+Title: Attention!!!public test_data may be 0?
+ URL: https://www.kaggle.com/code/yunsuxiaozi/attention-public-test-data-may-be-0
+
+Title: building neural network model
+ URL: https://www.kaggle.com/code/shradz18/building-neural-network-model
+
+Title: Writing Quality(fusion_model)
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-fusion-model
+
+Title: writing-quality-xgboost-numeric
+ URL: https://www.kaggle.com/code/scottnewcomer/writing-quality-xgboost-numeric
+
+Title: catboost
+ URL: https://www.kaggle.com/code/showering/catboost
+
+Title: Understanding feature generation functions
+ URL: https://www.kaggle.com/code/taichiuemura/understanding-feature-generation-functions
+
+Title: Catboost+XgBoost_regressor
+ URL: https://www.kaggle.com/code/manikantasanjayv/catboost-xgboost-regressor
+
+Title: 📒 Writing Processes to Quality - Baseline
+ URL: https://www.kaggle.com/code/huhuajin1/writing-processes-to-quality-baseline
+
+Title: notebookfb5e80b052
+ URL: https://www.kaggle.com/code/patinvestorstew/notebookfb5e80b052
+
+Title: writing transformer lightAutoml
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-transformer-lightautoml
+
+Title: Traps?Attention is your need
+ URL: https://www.kaggle.com/code/yunsuxiaozi/traps-attention-is-your-need
+
+Title: LGBM + XGBOOST
+ URL: https://www.kaggle.com/code/iurigabriel/lgbm-xgboost
+
+Title: Silver Bullet | Single Model |  Optuna
+ URL: https://www.kaggle.com/code/hideyukizushi/silver-bullet-single-model-optuna
+
+Title: notebook559efe1a32
+ URL: https://www.kaggle.com/code/ehabelkady/notebook559efe1a32
+
+Title: 📈 Writing Excellence Amplified by DNN Ensembles🧠
+ URL: https://www.kaggle.com/code/raviiloveyou/writing-excellence-amplified-by-dnn-ensembles
+
+Title: LGBM Own
+ URL: https://www.kaggle.com/code/zainalinasir/lgbm-own
+
+Title: notebookad6d7b8e7d
+ URL: https://www.kaggle.com/code/yaolinqingill/notebookad6d7b8e7d
+
+Title: Writing Quality(an idea about transformer )
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-an-idea-about-transformer
+
+Title: Writing quality Explorer
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-explorer
+
+Title: Simple Blending
+ URL: https://www.kaggle.com/code/habedi/simple-blending
+
+Title: Essay Reconstruction -> Error in Word Count
+ URL: https://www.kaggle.com/code/raki21/essay-reconstruction-error-in-word-count
+
+Title: Random Forest - default params
+ URL: https://www.kaggle.com/code/anastasijarammul/random-forest-default-params
+
+Title: Writing Behavior & Writing Score
+ URL: https://www.kaggle.com/code/ruijing0429/writing-behavior-writing-score
+
+Title: Linking Writing Process to Quality
+ URL: https://www.kaggle.com/code/jrazdolsky1/linking-writing-process-to-quality
+
+Title: Writing qualities
+ URL: https://www.kaggle.com/code/mingjiaodiao/writing-qualities
+
+Title: writing Quality(study note)
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-study-note
+
+Title: FE|stratified-Kfold|Ensemble|2xLGBM + 1xRF|.588
+ URL: https://www.kaggle.com/code/rishabh15virgo/fe-stratified-kfold-ensemble-2xlgbm-1xrf-588
+
+Title: Writing Processes - Efficiency LB
+ URL: https://www.kaggle.com/code/ryanholbrook/writing-processes-efficiency-lb
+
+Title: Linking Writing
+ URL: https://www.kaggle.com/code/haris33/linking-writing
+
+Title: VotingRegressor (7 models) + 165 Features [optuna]
+ URL: https://www.kaggle.com/code/minhsienweng/votingregressor-7-models-165-features-optuna
+
+Title: GAN with tabular data
+ URL: https://www.kaggle.com/code/seoyunje/gan-with-tabular-data
+
+Title: LGBM  + NN + Fusion+ XGB Ensemble
+ URL: https://www.kaggle.com/code/suryanshsharma1/lgbm-nn-fusion-xgb-ensemble
+
+Title: .581 | 3 Models | Optimized Weights | 165 Features
+ URL: https://www.kaggle.com/code/snnclsr/581-3-models-optimized-weights-165-features
+
+Title: Writing Quality(fusion_notebook)
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-fusion-notebook
+
+Title: lgbm + lgbm & xgb ensemble
+ URL: https://www.kaggle.com/code/myeongwang/lgbm-lgbm-xgb-ensemble
+
+Title: FastText LinkingWriting Prcs to Writing Quality
+ URL: https://www.kaggle.com/code/jaloeffe92/fasttext-linkingwriting-prcs-to-writing-quality
+
+Title: LightGBM_with_simple_preprocess
+ URL: https://www.kaggle.com/code/watehell/lightgbm-with-simple-preprocess
+
+Title: lgbm+xgb essemble
+ URL: https://www.kaggle.com/code/zulqarnainali/lgbm-xgb-essemble
+
+Title: Feature Selection:Null Importance(CV:0.616->0.615)
+ URL: https://www.kaggle.com/code/alvinai9603/feature-selection-null-importance-cv-0-616-0-615
+
+Title: Shake Estimation with Nested Cross Validation
+ URL: https://www.kaggle.com/code/kingychiu/shake-estimation-with-nested-cross-validation
+
+Title: (Writing Quality)How to make fake data？
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-how-to-make-fake-data
+
+Title: Attention!!!public test_data may be 0?
+ URL: https://www.kaggle.com/code/yunsuxiaozi/attention-public-test-data-may-be-0
+
+Title: building neural network model
+ URL: https://www.kaggle.com/code/shradz18/building-neural-network-model
+
+Title: Writing Quality(fusion_model)
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-fusion-model
+
+Title: writing-quality-xgboost-numeric
+ URL: https://www.kaggle.com/code/scottnewcomer/writing-quality-xgboost-numeric
+
+Title: catboost
+ URL: https://www.kaggle.com/code/showering/catboost
+
+Title: Understanding feature generation functions
+ URL: https://www.kaggle.com/code/taichiuemura/understanding-feature-generation-functions
+
+Title: Catboost+XgBoost_regressor
+ URL: https://www.kaggle.com/code/manikantasanjayv/catboost-xgboost-regressor
+
+Title: 📒 Writing Processes to Quality - Baseline
+ URL: https://www.kaggle.com/code/huhuajin1/writing-processes-to-quality-baseline
+
+Title: notebookfb5e80b052
+ URL: https://www.kaggle.com/code/patinvestorstew/notebookfb5e80b052
+
+Title: writing transformer lightAutoml
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-transformer-lightautoml
+
+Title: Traps?Attention is your need
+ URL: https://www.kaggle.com/code/yunsuxiaozi/traps-attention-is-your-need
+
+Title: LGBM + XGBOOST
+ URL: https://www.kaggle.com/code/iurigabriel/lgbm-xgboost
+
+Title: Silver Bullet | Single Model |  Optuna
+ URL: https://www.kaggle.com/code/hideyukizushi/silver-bullet-single-model-optuna
+
+Title: notebook559efe1a32
+ URL: https://www.kaggle.com/code/ehabelkady/notebook559efe1a32
+
+Title: 📈 Writing Excellence Amplified by DNN Ensembles🧠
+ URL: https://www.kaggle.com/code/raviiloveyou/writing-excellence-amplified-by-dnn-ensembles
+
+Title: LGBM Own
+ URL: https://www.kaggle.com/code/zainalinasir/lgbm-own
+
+Title: notebookad6d7b8e7d
+ URL: https://www.kaggle.com/code/yaolinqingill/notebookad6d7b8e7d
+
+Title: Writing Quality(an idea about transformer )
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-an-idea-about-transformer
+
+Title: Writing quality Explorer
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-explorer
+
+Title: Simple Blending
+ URL: https://www.kaggle.com/code/habedi/simple-blending
+
+Title: Essay Reconstruction -> Error in Word Count
+ URL: https://www.kaggle.com/code/raki21/essay-reconstruction-error-in-word-count
+
+Title: Random Forest - default params
+ URL: https://www.kaggle.com/code/anastasijarammul/random-forest-default-params
+
+Title: Writing Behavior & Writing Score
+ URL: https://www.kaggle.com/code/ruijing0429/writing-behavior-writing-score
+
+Title: Linking Writing Process to Quality
+ URL: https://www.kaggle.com/code/jrazdolsky1/linking-writing-process-to-quality
+
+Title: Writing qualities
+ URL: https://www.kaggle.com/code/mingjiaodiao/writing-qualities
+
+Title: writing Quality(study note)
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-study-note
+
+Title: FE|stratified-Kfold|Ensemble|2xLGBM + 1xRF|.588
+ URL: https://www.kaggle.com/code/rishabh15virgo/fe-stratified-kfold-ensemble-2xlgbm-1xrf-588
+
+Title: Writing Processes - Efficiency LB
+ URL: https://www.kaggle.com/code/ryanholbrook/writing-processes-efficiency-lb
+
+Title: Linking Writing
+ URL: https://www.kaggle.com/code/haris33/linking-writing
+
+Title: VotingRegressor (7 models) + 165 Features [optuna]
+ URL: https://www.kaggle.com/code/minhsienweng/votingregressor-7-models-165-features-optuna
+
+Title: GAN with tabular data
+ URL: https://www.kaggle.com/code/seoyunje/gan-with-tabular-data
+
+Title: LGBM  + NN + Fusion+ XGB Ensemble
+ URL: https://www.kaggle.com/code/suryanshsharma1/lgbm-nn-fusion-xgb-ensemble
+
+Title: .581 | 3 Models | Optimized Weights | 165 Features
+ URL: https://www.kaggle.com/code/snnclsr/581-3-models-optimized-weights-165-features
+
+Title: Writing Quality(fusion_notebook)
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-fusion-notebook
+
+Title: lgbm + lgbm & xgb ensemble
+ URL: https://www.kaggle.com/code/myeongwang/lgbm-lgbm-xgb-ensemble
+
+Title: FastText LinkingWriting Prcs to Writing Quality
+ URL: https://www.kaggle.com/code/jaloeffe92/fasttext-linkingwriting-prcs-to-writing-quality
+
+Title: LightGBM_with_simple_preprocess
+ URL: https://www.kaggle.com/code/watehell/lightgbm-with-simple-preprocess
+
+Title: lgbm+xgb essemble
+ URL: https://www.kaggle.com/code/zulqarnainali/lgbm-xgb-essemble
+
+Title: Feature Selection:Null Importance(CV:0.616->0.615)
+ URL: https://www.kaggle.com/code/alvinai9603/feature-selection-null-importance-cv-0-616-0-615
+
+Title: Shake Estimation with Nested Cross Validation
+ URL: https://www.kaggle.com/code/kingychiu/shake-estimation-with-nested-cross-validation
+
+Title: (Writing Quality)How to make fake data？
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-how-to-make-fake-data
+
+Title: Attention!!!public test_data may be 0?
+ URL: https://www.kaggle.com/code/yunsuxiaozi/attention-public-test-data-may-be-0
+
+Title: building neural network model
+ URL: https://www.kaggle.com/code/shradz18/building-neural-network-model
+
+Title: Writing Quality(fusion_model)
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-fusion-model
+
+Title: writing-quality-xgboost-numeric
+ URL: https://www.kaggle.com/code/scottnewcomer/writing-quality-xgboost-numeric
+
+Title: catboost
+ URL: https://www.kaggle.com/code/showering/catboost
+
+Title: Understanding feature generation functions
+ URL: https://www.kaggle.com/code/taichiuemura/understanding-feature-generation-functions
+
+Title: Catboost+XgBoost_regressor
+ URL: https://www.kaggle.com/code/manikantasanjayv/catboost-xgboost-regressor
+
+Title: 📒 Writing Processes to Quality - Baseline
+ URL: https://www.kaggle.com/code/huhuajin1/writing-processes-to-quality-baseline
+
+Title: notebookfb5e80b052
+ URL: https://www.kaggle.com/code/patinvestorstew/notebookfb5e80b052
+
+Title: writing transformer lightAutoml
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-transformer-lightautoml
+
+Title: Traps?Attention is your need
+ URL: https://www.kaggle.com/code/yunsuxiaozi/traps-attention-is-your-need
+
+Title: LGBM + XGBOOST
+ URL: https://www.kaggle.com/code/iurigabriel/lgbm-xgboost
+
+Title: Silver Bullet | Single Model |  Optuna
+ URL: https://www.kaggle.com/code/hideyukizushi/silver-bullet-single-model-optuna
+
+Title: notebook559efe1a32
+ URL: https://www.kaggle.com/code/ehabelkady/notebook559efe1a32
+
+Title: 📈 Writing Excellence Amplified by DNN Ensembles🧠
+ URL: https://www.kaggle.com/code/raviiloveyou/writing-excellence-amplified-by-dnn-ensembles
+
+Title: LGBM Own
+ URL: https://www.kaggle.com/code/zainalinasir/lgbm-own
+
+Title: notebookad6d7b8e7d
+ URL: https://www.kaggle.com/code/yaolinqingill/notebookad6d7b8e7d
+
+Title: Writing Quality(an idea about transformer )
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-an-idea-about-transformer
+
+Title: Writing quality Explorer
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-explorer
+
+Title: Simple Blending
+ URL: https://www.kaggle.com/code/habedi/simple-blending
+
+Title: Essay Reconstruction -> Error in Word Count
+ URL: https://www.kaggle.com/code/raki21/essay-reconstruction-error-in-word-count
+
+Title: Random Forest - default params
+ URL: https://www.kaggle.com/code/anastasijarammul/random-forest-default-params
+
+Title: Writing Behavior & Writing Score
+ URL: https://www.kaggle.com/code/ruijing0429/writing-behavior-writing-score
+
+Title: Linking Writing Process to Quality
+ URL: https://www.kaggle.com/code/jrazdolsky1/linking-writing-process-to-quality
+
+Title: Writing qualities
+ URL: https://www.kaggle.com/code/mingjiaodiao/writing-qualities
+
+Title: writing Quality(study note)
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-study-note
+
+Title: FE|stratified-Kfold|Ensemble|2xLGBM + 1xRF|.588
+ URL: https://www.kaggle.com/code/rishabh15virgo/fe-stratified-kfold-ensemble-2xlgbm-1xrf-588
+
+Title: Understanding|EDA|FE|stratified-Kfold|Ensemble
+ URL: https://www.kaggle.com/code/rishabh15virgo/understanding-eda-fe-stratified-kfold-ensemble
+
+Title: EDA|FE|stratified-Kfold|multiple_models
+ URL: https://www.kaggle.com/code/rishabh15virgo/eda-fe-stratified-kfold-multiple-models
+
+Title: EDA|FE|stratified-Kfold|Ensemble|essay_feats
+ URL: https://www.kaggle.com/code/rishabh15virgo/eda-fe-stratified-kfold-ensemble-essay-feats
+
+Title: Stacking Classifier in Keras
+ URL: https://www.kaggle.com/code/witoldnowogrski/stacking-classifier-in-keras
+
+Title: Linking Writing with Essay Score - LGBM
+ URL: https://www.kaggle.com/code/azraimohamad/linking-writing-with-essay-score-lgbm
+
+Title: Linking Writing Processes to Quality, Full Process
+ URL: https://www.kaggle.com/code/timbouris/linking-writing-processes-to-quality-full-process
+
+Title: notebook5287cd5e57
+ URL: https://www.kaggle.com/code/patrickklem/notebook5287cd5e57
+
+Title: copy of 0.63 submission - writing quality kaylaipp
+ URL: https://www.kaggle.com/code/kaylaippp/copy-of-0-63-submission-writing-quality-kaylaipp
+
+Title: Writing quality|EDA|FE|LGBM_reg|Kfold|tuned
+ URL: https://www.kaggle.com/code/rishabh15virgo/writing-quality-eda-fe-lgbm-reg-kfold-tuned
+
+Title: Linking Writing Processes - SVR
+ URL: https://www.kaggle.com/code/jenilgajjar/linking-writing-processes-svr
+
+Title: Writing quality|EDA|FE|LGBM_reg|already_tuned
+ URL: https://www.kaggle.com/code/rishabh15virgo/writing-quality-eda-fe-lgbm-reg-already-tuned
+
+Title: Writing Processes: Feature Generation
+ URL: https://www.kaggle.com/code/magnussesodia/writing-processes-feature-generation
+
+Title: Writing quality|EDA|regression|RF_reg|tuned
+ URL: https://www.kaggle.com/code/rishabh15virgo/writing-quality-eda-regression-rf-reg-tuned
+
+Title: linking Writing Processes to Writing Quality
+ URL: https://www.kaggle.com/code/prashantkumarsundge/linking-writing-processes-to-writing-quality
+
+Title: kld-thibault1(ezfeatures)
+ URL: https://www.kaggle.com/code/josephthibault/kld-thibault1-ezfeatures
+
+Title: Writing Processes EDA
+ URL: https://www.kaggle.com/code/magnussesodia/writing-processes-eda
+
+Title: Efficiency Track | Baseline
+ URL: https://www.kaggle.com/code/awqatak/efficiency-track-baseline
+
+Title: Writing Quality with H2O.Ai
+ URL: https://www.kaggle.com/code/seoyunje/writing-quality-with-h2o-ai
+
+Title: Silver Bullet | Single Model | 165 Features
+ URL: https://www.kaggle.com/code/awqatak/silver-bullet-single-model-165-features
+
+Title: writing quality study note(lightAutoml)
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-quality-study-note-lightautoml
+
+Title: Gradient Boosting Regression
+ URL: https://www.kaggle.com/code/ducminhphy/gradient-boosting-regression
+
+Title: Writing quality|EDA|Multiclass|RF Tuned
+ URL: https://www.kaggle.com/code/rishabh15virgo/writing-quality-eda-multiclass-rf-tuned
+
+Title: nxLGBM and NN, vectorized essay
+ URL: https://www.kaggle.com/code/jacobalstrup/nxlgbm-and-nn-vectorized-essay
+
+Title: Linking Writing Processes to Writing Quality
+ URL: https://www.kaggle.com/code/jenilgajjar/linking-writing-processes-to-writing-quality
+
+Title: Hyperparameter optimization using Optuna 🚀
+ URL: https://www.kaggle.com/code/habedi/hyperparameter-optimization-using-optuna
+
+Title: Keyboard shortcuts and reliance on the mouse
+ URL: https://www.kaggle.com/code/crispychurch/keyboard-shortcuts-and-reliance-on-the-mouse
+
+Title: Writing quality|EDA|Multiclass|All Models|Baseline
+ URL: https://www.kaggle.com/code/rishabh15virgo/writing-quality-eda-multiclass-all-models-baseline
+
+Title: LWP: unseen test activities/events
+ URL: https://www.kaggle.com/code/kononenko/lwp-unseen-test-activities-events
+
+Title: LGBM+featEng+EssayFeatEng
+ URL: https://www.kaggle.com/code/yuriao/lgbm-feateng-essayfeateng
+
+Title: LGBM (X2) + NN
+ URL: https://www.kaggle.com/code/cody11null/lgbm-x2-nn
+
+Title: Writing Processes to Quality 0.584
+ URL: https://www.kaggle.com/code/yongsukprasertsuk/writing-processes-to-quality-0-584
+
+Title: ✍️ Writing process EDA 📈
+ URL: https://www.kaggle.com/code/salvatoren/writing-process-eda
+
+Title: r² > 0.9 : the number of Events and Score
+ URL: https://www.kaggle.com/code/erivanoliveirajr/r-0-9-the-number-of-events-and-score
+
+Title: [learning_rate=0.04] LGBM and NN on sentences
+ URL: https://www.kaggle.com/code/kononenko/learning-rate-0-04-lgbm-and-nn-on-sentences
+
+Title: Simple essay reconstructor
+ URL: https://www.kaggle.com/code/chuboy/simple-essay-reconstructor
+
+Title: Feature Engineering: Sentence & paragraph f 00ea71
+ URL: https://www.kaggle.com/code/toma0624/feature-engineering-sentence-paragraph-f-00ea71
+
+Title: 📕 Writing Processes - Baseline V2 (LGBM + NN)
+ URL: https://www.kaggle.com/code/mcpenguin/writing-processes-baseline-v2-lgbm-nn
+
+Title: Baseline model with over 2000 features
+ URL: https://www.kaggle.com/code/habedi/baseline-model-with-over-2000-features
+
+Title: WritingProc2Qual | Baseline VotingRegressor
+ URL: https://www.kaggle.com/code/seanandrie/writingproc2qual-baseline-votingregressor
+
+Title: fast essay constructor
+ URL: https://www.kaggle.com/code/yuriao/fast-essay-constructor
+
+Title: Catboost Default Hyperparameters[CV:0.56-LB:0.61]
+ URL: https://www.kaggle.com/code/synful/catboost-default-hyperparameters-cv-0-56-lb-0-61
+
+Title: [Word2Vec][Voting][GPU][K Fold CV][Optuna]
+ URL: https://www.kaggle.com/code/suraj520/word2vec-voting-gpu-k-fold-cv-optuna
+
+Title: WritingQuality|Baseline|Models
+ URL: https://www.kaggle.com/code/toma0624/writingquality-baseline-models
+
+Title: IME672
+ URL: https://www.kaggle.com/code/yashgoel7291/ime672
+
+Title: essay with R
+ URL: https://www.kaggle.com/code/pehahn/essay-with-r
+
+Title: Shuffle Split + Optuna
+ URL: https://www.kaggle.com/code/seoyunje/shuffle-split-optuna
+
+Title: LGBM and NN on sentences
+ URL: https://www.kaggle.com/code/alexryzhkov/lgbm-and-nn-on-sentences
+
+Title: JUST_NB
+ URL: https://www.kaggle.com/code/mashangjiuhao/just-nb
+
+Title: Easly NoteBook 🌱| Feature Engineering | Catboost
+ URL: https://www.kaggle.com/code/aliibrahimali/easly-notebook-feature-engineering-catboost
+
+Title: Essay_Quality Boosted Trees model
+ URL: https://www.kaggle.com/code/tanishphopalkar/essay-quality-boosted-trees-model
+
+Title: Neural Network | PyTorch
+ URL: https://www.kaggle.com/code/awqatak/neural-network-pytorch
+
+Title: Another Univariate Model (from 3 feats)
+ URL: https://www.kaggle.com/code/ianchute/another-univariate-model-from-3-feats
+
+Title: Base RMSE = 1.02473
+ URL: https://www.kaggle.com/code/davidjlochner/base-rmse-1-02473
+
+Title: lwpwq: EDA all cursor motion
+ URL: https://www.kaggle.com/code/utm529fg/lwpwq-eda-all-cursor-motion
+
+Title: [First] Hisui_LWP_EDA✩ ja/en
+ URL: https://www.kaggle.com/code/natsumiarai/first-hisui-lwp-eda-ja-en
+
+Title: Word count analysis on constructed essays
+ URL: https://www.kaggle.com/code/vyacheslavefimov/word-count-analysis-on-constructed-essays
+
+Title: Essay Writing Prediction ✨🎇💫
+ URL: https://www.kaggle.com/code/sauravmishraa/essay-writing-prediction
+
+Title: Text construction | Dataset usage
+ URL: https://www.kaggle.com/code/vyacheslavefimov/text-construction-dataset-usage
+
+Title: Word count analysis on reconstructed essays
+ URL: https://www.kaggle.com/code/vyacheslavefimov/word-count-analysis-on-reconstructed-essays
+
+Title: study note :feature_engineer is important
+ URL: https://www.kaggle.com/code/yunsuxiaozi/study-note-feature-engineer-is-important
+
+Title: Feature Engineering & Models comparison CV & KFold
+ URL: https://www.kaggle.com/code/jagdmir/feature-engineering-models-comparison-cv-kfold
+
+Title: EDA_writing_process_as_image(time x cursor_pos)
+ URL: https://www.kaggle.com/code/joehirose/eda-writing-process-as-image-time-x-cursor-pos
+
+Title: Crazy feature engineer make me crazy!!
+ URL: https://www.kaggle.com/code/yunsuxiaozi/crazy-feature-engineer-make-me-crazy
+
+Title: xgb_10_30_1
+ URL: https://www.kaggle.com/code/pehahn/xgb-10-30-1
+
+Title: [LWPWQ] Feature Engineering for beginners (日本語/EN)
+ URL: https://www.kaggle.com/code/keishibata/lwpwq-feature-engineering-for-beginners-en
+
+Title: Linking writing process.Transformer NN (TF)+FE
+ URL: https://www.kaggle.com/code/dmtrrr/linking-writing-process-transformer-nn-tf-fe
+
+Title: Simplest LGBM||🚀
+ URL: https://www.kaggle.com/code/eishkaran/simplest-lgbm
+
+Title: 🔴 Youtube Video 🔴 writing-quality-lgbm 🔥🔥
+ URL: https://www.kaggle.com/code/gopidurgaprasad/youtube-video-writing-quality-lgbm
+
+Title: ✍️ Simple EDA for Writing Quality Dataset
+ URL: https://www.kaggle.com/code/vyacheslavefimov/simple-eda-for-writing-quality-dataset
+
+Title: The Write Predictor
+ URL: https://www.kaggle.com/code/rajatsurana979/the-write-predictor
+
+Title: [WrtQlty] Easy Feature Analysis (Eng/日本語)
+ URL: https://www.kaggle.com/code/junjitakeshima/wrtqlty-easy-feature-analysis-eng
+
+Title: Towards TF-IDF in logs features
+ URL: https://www.kaggle.com/code/olyatsimboy/towards-tf-idf-in-logs-features
+
+Title: {ENTER}ing the TimeSeries {SPACE} Sec 3 + New Aggs
+ URL: https://www.kaggle.com/code/abdullahmeda/enter-ing-the-timeseries-space-sec-3-new-aggs
+
+Title: Fork of LGBM+numeric/non-numeric feat engin 70f417
+ URL: https://www.kaggle.com/code/aleron751/fork-of-lgbm-numeric-non-numeric-feat-engin-70f417
+
+Title: [LWPWQ] Simple EDA （日本語）
+ URL: https://www.kaggle.com/code/keishibata/lwpwq-simple-eda
+
+Title: Writing Process and Quality | Efficiency LB
+ URL: https://www.kaggle.com/code/mvoulo/writing-process-and-quality-efficiency-lb
+
+Title: Exploring Writing Behaviors for Improved Writin
+ URL: https://www.kaggle.com/code/chetanbharambe/exploring-writing-behaviors-for-improved-writin
+
+Title: Burst Behaviour Clusterization Using TSNE
+ URL: https://www.kaggle.com/code/oreehovich3/burst-behaviour-clusterization-using-tsne
+
+Title: lama linking writing
+ URL: https://www.kaggle.com/code/bulivington/lama-linking-writing
+
+Title: Linking Writing with Essay Score - LR
+ URL: https://www.kaggle.com/code/azraimohamad/linking-writing-with-essay-score-lr
+
+Title: 📒 Writing Processes to Quality - Baseline
+ URL: https://www.kaggle.com/code/muranstr/writing-processes-to-quality-baseline
+
+Title: Simple Average Blend in a Single Cell
+ URL: https://www.kaggle.com/code/awqatak/simple-average-blend-in-a-single-cell
+
+Title: BaseLine Reggression
+ URL: https://www.kaggle.com/code/lordxerxes/baseline-reggression
+
+Title: Baseline Solution
+ URL: https://www.kaggle.com/code/lordxerxes/baseline-solution
+
+Title: Simple Chi Kernel SVM
+ URL: https://www.kaggle.com/code/ianchute/simple-chi-kernel-svm
+
+Title: score_regression&classifier
+ URL: https://www.kaggle.com/code/yunsuxiaozi/score-regression-classifier
+
+Title: Reproduce Essay
+ URL: https://www.kaggle.com/code/yuji96/reproduce-essay
+
+Title: Feature Engineering: Sentence & paragraph features
+ URL: https://www.kaggle.com/code/hiarsl/feature-engineering-sentence-paragraph-features
+
+Title: 💥📢XGBoost + Tuning | Feature Extraction
+ URL: https://www.kaggle.com/code/adityaparikh668/xgboost-tuning-feature-extraction
+
+Title: Predicting Essay Quality from Typing Behavior
+ URL: https://www.kaggle.com/code/rajatsurana979/predicting-essay-quality-from-typing-behavior
+
+Title: 🐈 CatBoost training | 0.609 performance
+ URL: https://www.kaggle.com/code/furduisorinoctavian/catboost-training-0-609-performance
+
+Title: best feature engineer is all you need
+ URL: https://www.kaggle.com/code/yunsuxiaozi/best-feature-engineer-is-all-you-need
+
+Title: Essay Contructor
+ URL: https://www.kaggle.com/code/kawaiicoderuwu/essay-contructor
+
+Title: [EDA] Feature patterns across the scores
+ URL: https://www.kaggle.com/code/yuriao/eda-feature-patterns-across-the-scores
+
+Title: BaseLine Reggression
+ URL: https://www.kaggle.com/code/qwerty29544/baseline-reggression
+
+Title: Writing process EDA
+ URL: https://www.kaggle.com/code/yekahaaagayeham/writing-process-eda
+
+Title: Quality of Writing|Attempt to Conformal Prediction
+ URL: https://www.kaggle.com/code/neupane9sujal/quality-of-writing-attempt-to-conformal-prediction
+
+Title: ✨ Pycaret BaseLine | 📊 EDA writing_quality 🔥🔥🔥
+ URL: https://www.kaggle.com/code/somesh88/pycaret-baseline-eda-writing-quality
+
+Title: Writing Quality optuna xgboost
+ URL: https://www.kaggle.com/code/umar47/writing-quality-optuna-xgboost
+
+Title: LGBM+numeric/non-numeric feat engineering
+ URL: https://www.kaggle.com/code/yuriao/lgbm-numeric-non-numeric-feat-engineering
+
+Title: 📈 Short EDA | Plotting data according to score
+ URL: https://www.kaggle.com/code/furduisorinoctavian/short-eda-plotting-data-according-to-score
+
+Title: 1️⃣ Univariate Model
+ URL: https://www.kaggle.com/code/ianchute/1-univariate-model
+
+Title: [EDA] Distribution of train dataset
+ URL: https://www.kaggle.com/code/kentatanaka1data/eda-distribution-of-train-dataset
+
+Title: 2️⃣ Bivariate Model
+ URL: https://www.kaggle.com/code/ianchute/2-bivariate-model
+
+Title: sample_submission
+ URL: https://www.kaggle.com/code/luispintoc/sample-submission
+
+Title: BaseModel_Ver02_Writing Quality
+ URL: https://www.kaggle.com/code/sooyoungher/basemodel-ver02-writing-quality
+
+Title: small behavior analysis[EDA]: 🔎
+ URL: https://www.kaggle.com/code/oreehovich3/small-behavior-analysis-eda
+
+Title: 📒 Writing Processes to Quality - LinReg Baseline
+ URL: https://www.kaggle.com/code/edchang1992/writing-processes-to-quality-linreg-baseline
+
+Title: Writing Quality LOFO Feature Importance
+ URL: https://www.kaggle.com/code/aerdem4/writing-quality-lofo-feature-importance
+
+Title: writingQuality-extract final text (encoded) +tfidf
+ URL: https://www.kaggle.com/code/safavieh/writingquality-extract-final-text-encoded-tfidf
+
+Title: Writing Quality
+ URL: https://www.kaggle.com/code/klyushnik/writing-quality
+
+Title: Analysis And Prediction Model RMSE 0.14
+ URL: https://www.kaggle.com/code/johnchristianvieri/analysis-and-prediction-model-rmse-0-14
+
+Title: Gradient Boosting regression
+ URL: https://www.kaggle.com/code/kelvinquansah/gradient-boosting-regression
+
+Title: EDA Linking Writing Processes
+ URL: https://www.kaggle.com/code/davidhguerrero/eda-linking-writing-processes
+
+Title: 📝Quality of Writing | EDA | FS | LGBM+XGB Optuna
+ URL: https://www.kaggle.com/code/iqmansingh/quality-of-writing-eda-fs-lgbm-xgb-optuna
+
+Title: Feature Eng - Clean Outlier - LGBM with Optuna
+ URL: https://www.kaggle.com/code/dangnguyen97/feature-eng-clean-outlier-lgbm-with-optuna
+
+Title: xgb base in R
+ URL: https://www.kaggle.com/code/pehahn/xgb-base-in-r
+
+Title: lwpwq: Log Animation
+ URL: https://www.kaggle.com/code/utm529fg/lwpwq-log-animation
+
+Title: LGBM Finetuning with Optuna
+ URL: https://www.kaggle.com/code/abhranta/lgbm-finetuning-with-optuna
+
+Title: Train Validate Test . Writing Process to Quality
+ URL: https://www.kaggle.com/code/bkowshik/train-validate-test-writing-process-to-quality
+
+Title: LGBM+ numeric feature engineering
+ URL: https://www.kaggle.com/code/yuriao/lgbm-numeric-feature-engineering
+
+Title: ⭐How does LLM multi-modality work?🚀
+ URL: https://www.kaggle.com/code/aliabdin1/how-does-llm-multi-modality-work
+
+Title: lwpwq[Eng/日本語]: Initial EDA
+ URL: https://www.kaggle.com/code/utm529fg/lwpwq-eng-initial-eda
+
+Title: Down and Up times of successive events
+ URL: https://www.kaggle.com/code/bkowshik/down-and-up-times-of-successive-events
+
+Title: Linking Writing Processes to Writing Quality EDA
+ URL: https://www.kaggle.com/code/nicapotato/linking-writing-processes-to-writing-quality-eda
+
+Title: study note:feature engineer
+ URL: https://www.kaggle.com/code/yunsuxiaozi/study-note-feature-engineer
+
+Title: RMSE 0.3x - LGBM baseline with H2O FineTuned
+ URL: https://www.kaggle.com/code/dangnguyen97/rmse-0-3x-lgbm-baseline-with-h2o-finetuned
+
+Title: Writing Quality Prediction in Picture
+ URL: https://www.kaggle.com/code/guidosalimbeni/writing-quality-prediction-in-picture
+
+Title: EDA and Feature Engineering (Keystroke Measures)
+ URL: https://www.kaggle.com/code/akscodes/eda-and-feature-engineering-keystroke-measures
+
+Title: Text Change Research🔭
+ URL: https://www.kaggle.com/code/polyakovstepan/text-change-research
+
+Title: Random Forest, СatBoost, XGB baseline🖥
+ URL: https://www.kaggle.com/code/polyakovstepan/random-forest-atboost-xgb-baseline
+
+Title: Does "counts" count☝️?
+ URL: https://www.kaggle.com/code/patrick0302/does-counts-count
+
+Title: Keystroke measures in R
+ URL: https://www.kaggle.com/code/pehahn/keystroke-measures-in-r
+
+Title: writing processes&writing quality EDA
+ URL: https://www.kaggle.com/code/yunsuxiaozi/writing-processes-writing-quality-eda
+
+Title: Write Processes&Write Quality(fusion_model&k_fold)
+ URL: https://www.kaggle.com/code/yunsuxiaozi/write-processes-write-quality-fusion-model-k-fold
+
+Title: Linking_Writing_Quality_EDA
+ URL: https://www.kaggle.com/code/prithviraj7387/linking-writing-quality-eda
+
+Title: Time-series viz of writing behavior 😎
+ URL: https://www.kaggle.com/code/patrick0302/time-series-viz-of-writing-behavior
+
+Title: Write Processes&Write Quality(Xgboost)
+ URL: https://www.kaggle.com/code/yunsuxiaozi/write-processes-write-quality-xgboost
+
+Title: base-model
+ URL: https://www.kaggle.com/code/shaikikozashvili/base-model
+
+Title: The longer the better?🕜
+ URL: https://www.kaggle.com/code/oreehovich3/the-longer-the-better
+
+Title: 📊visualization-writing-process-quality-EDA
+ URL: https://www.kaggle.com/code/tianmin/visualization-writing-process-quality-eda
+
+Title: Feature engineering(Write Processes&Write Quality)
+ URL: https://www.kaggle.com/code/yunsuxiaozi/feature-engineering-write-processes-write-quality
+
+Title: Write Processes&Write Quality(baseline)
+ URL: https://www.kaggle.com/code/yunsuxiaozi/write-processes-write-quality-baseline
+
+Title: Link Writing Simple LGBM baseline
+ URL: https://www.kaggle.com/code/hengzheng/link-writing-simple-lgbm-baseline
+
+Title: LGBM baseline
+ URL: https://www.kaggle.com/code/yuriao/lgbm-baseline
+
+Title: EDA for better data understanding
+ URL: https://www.kaggle.com/code/datark1/eda-for-better-data-understanding
+
+Title: Keystroke Analysis for Essay Quality (RF, MSE-0.4)
+ URL: https://www.kaggle.com/code/vidhikishorwaghela/keystroke-analysis-for-essay-quality-rf-mse-0-4
+
+Title: 📒 Writing Processes to Quality - Baseline
+ URL: https://www.kaggle.com/code/mcpenguin/writing-processes-to-quality-baseline
+
+Title: H2O - Hyperparameters - Grid search
+ URL: https://www.kaggle.com/code/dangnguyen97/h2o-hyperparameters-grid-search
+
+Title: [lwpwq] Public Baseline Notebook
+ URL: https://www.kaggle.com/code/takaito/lwpwq-public-baseline-notebook
+
+Title: Writing process
+ URL: https://www.kaggle.com/code/marekm4/writing-process
+
+Title: 0.66 Clean outlier + Combine Multiple models
+ URL: https://www.kaggle.com/code/dangnguyen97/0-66-clean-outlier-combine-multiple-models
+
+Title: Writing Processes. Holistic Quality.
+ URL: https://www.kaggle.com/code/mpwolke/writing-processes-holistic-quality
+
+Title: WritingQuality|PreprocessedDataset
+ URL: https://www.kaggle.com/code/ravi20076/writingquality-preprocesseddataset
+
+Title: [lwpwq] Public Baseline Notebook
+ URL: https://www.kaggle.com/code/nhttinnguynbch/lwpwq-public-baseline-notebook
+
+Title: Understanding the competition
+ URL: https://www.kaggle.com/code/j13mehul/understanding-the-competition
+
+Title: 0.691 Tuning step by step - H2O.ai
+ URL: https://www.kaggle.com/code/dangnguyen97/0-691-tuning-step-by-step-h2o-ai
+
+Title: ⌨️ Writing Processes 2 Quality - Starter
+ URL: https://www.kaggle.com/code/docxian/writing-processes-2-quality-starter
+
+Title: H20 - Hyperparameters - Grid Search - V1
+ URL: https://www.kaggle.com/code/dangnguyen97/h20-hyperparameters-grid-search-v1
+
+Title: parlorsky simple EDA
+ URL: https://www.kaggle.com/code/olegzholobov/parlorsky-simple-eda
+
+Title: Linking Writing Processes EDA and Baseline
+ URL: https://www.kaggle.com/code/mertbayraktar/linking-writing-processes-eda-and-baseline
+
+Title: Linking Writing Processes: EDA & submission
+ URL: https://www.kaggle.com/code/chrisk321/linking-writing-processes-eda-submission
+
+Title: WritingQuality|Baseline|Models
+ URL: https://www.kaggle.com/code/ravi20076/writingquality-baseline-models
+
+Title: [Updated - 75.35% acc] Revealing hidden words
+ URL: https://www.kaggle.com/code/jasonheesanglee/updated-75-35-acc-revealing-hidden-words
+
+Title: notebookcb5ee3c9f3
+ URL: https://www.kaggle.com/code/gopalakrishnankumar/notebookcb5ee3c9f3
+
+Title: LGBM (X2) + NN + Fusion
+ URL: https://www.kaggle.com/code/kononenko/lgbm-x2-nn-fusion
+
+Title: mbdtf tf baseline
+ URL: https://www.kaggle.com/code/fanhuaiyuan/mbdtf-tf-baseline
+
+Title: LGBM + XGBOOST
+ URL: https://www.kaggle.com/code/saikiranbaghavathula/lgbm-xgboost
+
+Title: notebook7f1c7563ef
+ URL: https://www.kaggle.com/code/gopalakrishnankumar/notebook7f1c7563ef
+
+Title: notebook2c94e3cf34
+ URL: https://www.kaggle.com/code/gopalakrishnankumar/notebook2c94e3cf34
+
+Title: LWPWQ | LGBM - 203 features
+ URL: https://www.kaggle.com/code/sycj427/lwpwq-lgbm-203-features
+
+Title: Linking Writing Process to Quality
+ URL: https://www.kaggle.com/code/pauljojr/linking-writing-process-to-quality
+
+Title: LGBM + NN + XGBoost for writing quality [optuna]
+ URL: https://www.kaggle.com/code/minhsienweng/lgbm-nn-xgboost-for-writing-quality-optuna
+
+Title: Feature 1 + (LGB,NN,Ridge)
+ URL: https://www.kaggle.com/code/seoyunje/feature-1-lgb-nn-ridge
+
+Title: LGBM (X2) + NN_sub2
+ URL: https://www.kaggle.com/code/toma0624/lgbm-x2-nn-sub2
+
+Title: LGBM (X2) + NN_sub1
+ URL: https://www.kaggle.com/code/toma0624/lgbm-x2-nn-sub1
+
+Title: data cleaning
+ URL: https://www.kaggle.com/code/yash612/data-cleaning
+
+Title: LinkingWritingProcess-EDA & Basic Lightgbm
+ URL: https://www.kaggle.com/code/jairanjan/linkingwritingprocess-eda-basic-lightgbm
+
+Title: Choosing a boosting algorithm
+ URL: https://www.kaggle.com/code/alexeyk12/choosing-a-boosting-algorithm
+
+Title: first_eda
+ URL: https://www.kaggle.com/code/kenmoro/first-eda
+
+Title: EDA & Preprocessing - Linking WP2WQ
+ URL: https://www.kaggle.com/code/jasonheesanglee/eda-preprocessing-linking-wp2wq
+
+Title: linking_writing_notebook
+ URL: https://www.kaggle.com/code/takudachi/linking-writing-notebook
+
+Title: notebookeb19c6bbe8
+ URL: https://www.kaggle.com/code/udaykirandevisetty/notebookeb19c6bbe8
+
+Title: Cursor Moving Animation 📝
+ URL: https://www.kaggle.com/code/abdul95q8/cursor-moving-animation
+
+Title: load_ds_be"_test
+ URL: https://www.kaggle.com/code/dvk911911/load-ds-be-test
+
