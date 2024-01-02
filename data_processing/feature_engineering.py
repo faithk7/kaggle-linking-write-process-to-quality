@@ -5,7 +5,6 @@ import pandas as pd
 import tqdm
 
 
-# ! Feature engineering skills:
 def get_all_features(df):
     """
     Get all features for the given dataframe.
