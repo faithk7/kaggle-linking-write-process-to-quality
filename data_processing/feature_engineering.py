@@ -3,10 +3,10 @@ import copy
 import numpy as np
 import pandas as pd
 import tqdm
-from base_165_features import *
+
+from .base_165_features import *
 
 
-# sample comment
 def get_all_features(df):
     """
     Get all features for the given dataframe.
@@ -25,8 +25,8 @@ def get_all_features(df):
         "/Users/kaiqu/kaggle-datasets/linking-writing-processes-to-writing-quality"
     )
     train_logs = pl.scan_csv(f"{DATA_ROOT}/train_logs.csv")
-    feautre_extractor = FeatureExtractor(train_logs)
-    train_features = feautre_extractor.create_feats().collect().to_pandas()
+    feature_extractor = FeatureExtractor(train_logs)
+    train_features = feature_extractor.create_feats().collect().to_pandas()
     return train_features
 
 
@@ -71,6 +71,8 @@ def get_behavioral_features(df, essay_df=None):
     # TODO: length of P-bursts (in characters)
     # TODO: length of R-bursts (in characters)
     pass
+
+def get_knn_features(df):
 
 
 # def preprocess_df(df):
